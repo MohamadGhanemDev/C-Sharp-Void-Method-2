@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp-Void-Method-2", "C-Sharp-Void-Method-2\C-Sharp-Void-Method-2.csproj", "{7D10501F-7B24-47FA-B4B5-F174F8135A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D10501F-7B24-47FA-B4B5-F174F8135A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D10501F-7B24-47FA-B4B5-F174F8135A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D10501F-7B24-47FA-B4B5-F174F8135A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D10501F-7B24-47FA-B4B5-F174F8135A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A4E149-E0AD-4A8F-9E22-BF1DEC869783}
+	EndGlobalSection
+EndGlobal
